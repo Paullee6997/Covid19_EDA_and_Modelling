@@ -11,4 +11,6 @@ Final stage and probably whats of most interest. MODELLING! woot. The ARIMA and 
   The ARIMA is optimized using Grid search and the LSTM uses Adam with a RMSLE loss function.
   I highly suggest looking at the logic and architecture behind both models!
   
+I also made a cool poster on my work for my school to be submitted into a data analytics conference, so if you want to just quickly skim, I highly reccomend going through the poster.
+  
 If you have any questions at all, please let me know!
